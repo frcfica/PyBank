@@ -1,9 +1,7 @@
 # Uso de la carpeta test
 
-La Regla de Oro para los nombres: Todo archivo de prueba debe empezar con la palabra test_ (por ejemplo, test_operaciones.py).
+## Donde subir el codigo
 
-# Donde subir el codigo
-
-Cada vez que trabajen codgio deben subir al archivo python subido en esta carpeta, recuerden crear una rama llamada feature/"Nombre de lo que estan trabajando"
+Cada vez que trabajen codigo deben subirlo al archivo python subido en esta carpeta sin borrar el trabajo de los demas integrantes, recuerden crear una rama llamada feature/"Nombre de lo que estan trabajando" para poder avanzar con su parte del proyecto
 
 Recuerden las indicaciones dadas por el profesor.
