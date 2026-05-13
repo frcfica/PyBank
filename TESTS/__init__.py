@@ -12,8 +12,8 @@ class Cliente:
     def retirar(self, monto):
         self.saldo -= monto
     def new_password(self, intento):
-        if self.password == intento:
-           return intento 
+         return self.password == intento
+           
         
 
 
